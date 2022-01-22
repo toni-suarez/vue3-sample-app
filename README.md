@@ -8,6 +8,9 @@ Used technologies:
 - TailwindCSS
 - jsonplaceholder.typicode.com
 
+
+Online: https://vue3-sample-app-seven.vercel.app/
+
 ## Screenshots
 
 <img width="1792" alt="Bildschirmfoto 2022-01-14 um 15 11 21" src="https://user-images.githubusercontent.com/97730396/149535381-16710508-0ae6-4f1d-a646-90b940bfb49e.png">
